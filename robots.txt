@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucaskarsten.github.io/exile-digest/sitemap.xml
